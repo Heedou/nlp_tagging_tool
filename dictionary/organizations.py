@@ -1,0 +1,10 @@
+organization_dict = {}
+organization_dict['entertainment'] = []
+organization_dict['convenience'] = []
+organization_dict['food'] = []
+organization_dict['hotel'] = []
+organization_dict['medicine'] = []
+organization_dict['education'] = []
+organization_dict['economy'] = []
+organization_dict['politics'] = []
+organization_dict['law'] = []
